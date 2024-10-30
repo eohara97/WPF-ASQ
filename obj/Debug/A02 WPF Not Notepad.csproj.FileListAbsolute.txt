@@ -1,0 +1,17 @@
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\bin\Debug\A02 WPF Not Notepad.exe.config
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\bin\Debug\A02 WPF Not Notepad.exe
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\bin\Debug\A02 WPF Not Notepad.pdb
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\obj\Debug\A02 WPF Not Notepad.csproj.AssemblyReference.cache
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\obj\Debug\AboutBox.g.cs
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\obj\Debug\MainWindow.g.cs
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\obj\Debug\App.g.cs
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\obj\Debug\A02 WPF Not Notepad_MarkupCompile.cache
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\obj\Debug\A02 WPF Not Notepad_MarkupCompile.lref
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\obj\Debug\AboutBox.baml
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\obj\Debug\MainWindow.baml
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\obj\Debug\A02 WPF Not Notepad.g.resources
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\obj\Debug\A02_WPF_Not_Notepad.Properties.Resources.resources
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\obj\Debug\A02 WPF Not Notepad.csproj.GenerateResource.cache
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\obj\Debug\A02 WPF Not Notepad.csproj.CoreCompileInputs.cache
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\obj\Debug\A02 WPF Not Notepad.exe
+C:\Users\EvanO\College\SET Year 2\Fall Semester\PROG 2121 - Windows Programming\a02---wpf-eohara97\A02 WPF Notepad\a02---wpf-eohara97\A02 WPF Not Notepad\obj\Debug\A02 WPF Not Notepad.pdb

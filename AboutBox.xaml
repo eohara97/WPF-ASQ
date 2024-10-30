@@ -1,0 +1,25 @@
+﻿<!--
+/*
+* FILE              : AboutBox.xaml
+* PROJECT           : Assignment 02 - WPF Application
+* PROGRAMMER        : Evan O'Hara 7618127
+* FIRST VERSION     : 2022-10-02
+* DESCRIPTION       : The XAML code that creates the look of the about box that pops up when the user clicks "About". 
+*                   : I did not add ANY code to the AboutBox.xaml.cs file so that is why it does not have a full header comment
+*                   : All the information that is displayed in the About box is here and the AboutBox.xaml.cs file just instantiates.
+*/ 
+-->
+<Window x:Class="A02_WPF_Not_Notepad.AboutBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A02_WPF_Not_Notepad"
+        mc:Ignorable="d"
+        Title="AboutBox" Height="300" Width="550">
+    <Grid HorizontalAlignment="Center">
+        <Label Content="About Not Notepad WPF" HorizontalAlignment="Center" Margin="0,28,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <TextBlock Margin="50,125,50,0" TextWrapping="Wrap" Text="Not Notepad WPF is a text editor that is useful for editing plain text. It provides the ability to save a file, create a new file, open a file, exit the application, and read about the application (as you are doing now). It also displays a character count at the bottom left corner of the application once a single character is entered." VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
